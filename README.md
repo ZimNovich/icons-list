@@ -25,7 +25,7 @@ There are also:
 - https://icons8.com/line-awesome
 - https://www.basicons.com (636 icons)
 - https://circumicons.com/icons (285 icons)
-- https://primer.style/octicons/
+- https://primer.style/octicons/ (icons by GitHub)
 
 Search icon sets:
 - https://icon-sets.iconify.design
